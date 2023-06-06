@@ -8,7 +8,7 @@
         <version>3.0.6</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>io.github.kalayciburak-instruction</groupId>
+    <groupId>io.github.hamzapamuk23</groupId>
     <artifactId>common-package-t2</artifactId>
     <version>0.1.0-SNAPSHOT</version>
     <name>common-package-t2</name>
